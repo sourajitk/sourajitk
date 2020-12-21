@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/sourajitk/sourajitk/master/ooof.png)
 ### Hey there! 👋
 
-![](https://github-readme-stats.vercel.app/api?username=sourajitk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=sourajitk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula)
 
 - I’m a member and contributor at StatiXOS; a custom AOSP ROM.
 - Wanna contact me? Find me in Telegram!
