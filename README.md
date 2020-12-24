@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/sourajitk/sourajitk/master/ooof.png" height="70%" width="70%;"/>]()
 
-![](https://github-readme-stats.vercel.app/api?username=sourajitk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula)
+[<img src="https://github-readme-stats.vercel.app/api?username=sourajitk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" height="48%" width="48%;"/>]()
 
 - Contributor at StatiXOS; a custom AOSP ROM.
 <a href="https://www.linkedin.com/in/sourajit-karmakar-176a981a9/">
