@@ -1,6 +1,8 @@
-[<img src="https://raw.githubusercontent.com/sourajitk/sourajitk/master/ooof.png" height="70%" width="70%;"/>]()
+[<img src="https://i.imgur.com/xCa1csT.png" />]()
 
-- Contributor at StatiXOS; a custom AOSP ROM.
+- Contributor at [StatiXOS](https://github.com/StatiXOS); a custom AOSP ROM.
+- LineageOS maintainer for [Samsung Galaxy A7 2016](https://wiki.lineageos.org/devices/a7xelte)
+- Recognized developer at [XDA-forums](https://forum.xda-developers.com/m/androbots.6227858/)
 <a href="https://www.linkedin.com/in/sourajit-karmakar-176a981a9/">
   <img alt="Linkedin" width="40px" src="https://camo.githubusercontent.com/45e6bebceba49c2cf76b1b3770b1adbe24e6c454/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
 </a>  <a href="https://t.me/compassneedle">
