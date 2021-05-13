@@ -1,4 +1,4 @@
-[<img src="https://i.imgur.com/4l5ThiZ.png" height="70%" width="70%;"/>]()
+[<img src="https://i.imgur.com/4l5ThiZ.png" height="50%" width="50%;"/>]()
 
 - Contributor at [StatiXOS](https://github.com/StatiXOS); a custom AOSP ROM.
 - LineageOS maintainer for [Samsung Galaxy A7 2016](https://wiki.lineageos.org/devices/a7xelte)
